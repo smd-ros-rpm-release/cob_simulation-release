@@ -1,0 +1,12 @@
+Source: ros-hydro-cob-gazebo
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/cob_gazebo
+Standards-Version: 3.9.2
+
+Package: ros-hydro-cob-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-cob-controller-configuration-gazebo, ros-hydro-cob-description, ros-hydro-cob-gazebo-worlds, ros-hydro-cob-hardware-config, ros-hydro-cob-srvs, ros-hydro-desire-description, ros-hydro-gazebo-plugins, ros-hydro-gazebo-ros, ros-hydro-joint-trajectory-action, ros-hydro-move-base-msgs, ros-hydro-raw-description, ros-hydro-robot-state-publisher, ros-hydro-single-joint-position-action, ros-hydro-tf
+Description: Launch files and tools for 3D simulation of Care-O-bot in gazebo simulator.
