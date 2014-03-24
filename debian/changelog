@@ -1,9 +1,0 @@
-ros-hydro-cob-simulation (0.5.1-3precise) precise; urgency=high
-
-  * added environment specific gazebo configuration to cob_simulation, to get gazebo deps out of cob_environments. Discussed with fmw
-  * Initial catkinization.
-  * Contributors: abubeck
-
- -- Florian Weisshardt <fmw@ipa.fhg.de>  Thu, 20 Mar 2014 23:00:00 -0000
-
-
