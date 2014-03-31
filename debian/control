@@ -1,0 +1,12 @@
+Source: ros-hydro-cob-bringup-sim
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/cob_bringup_sim
+Standards-Version: 3.9.2
+
+Package: ros-hydro-cob-bringup-sim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cob-default-env-config, ros-hydro-cob-default-robot-config, ros-hydro-cob-gazebo, ros-hydro-cob-gazebo-worlds, ros-hydro-gazebo-ros
+Description: This package provides launch files for starting a simulated Care-O-bot.
