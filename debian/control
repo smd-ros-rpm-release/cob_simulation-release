@@ -1,0 +1,12 @@
+Source: ros-indigo-cob-simulation
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/cob_simulation
+Standards-Version: 3.9.2
+
+Package: ros-indigo-cob-simulation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cob-bringup-sim, ros-indigo-cob-gazebo, ros-indigo-cob-gazebo-objects, ros-indigo-cob-gazebo-worlds
+Description: The cob_simulation stack includes packages to work with Care-O-bot within simulation environments, e.g. gazebo.
