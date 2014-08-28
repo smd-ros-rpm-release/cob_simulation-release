@@ -2,8 +2,11 @@
 Changelog for package cob_gazebo_objects
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.5.2 (2014-03-31)
+0.5.2 (2014-08-28)
 ------------------
+* cleaning up
+* New maintainer
+* Contributors: ipa-fxm, ipa-nhg
 
 0.5.1 (2014-03-21)
 ------------------

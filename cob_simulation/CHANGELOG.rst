@@ -2,8 +2,10 @@
 Changelog for package cob_simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.5.2 (2014-03-31)
+0.5.2 (2014-08-28)
 ------------------
+* New maintainer
+* Contributors: ipa-nhg
 
 0.5.1 (2014-03-21)
 ------------------

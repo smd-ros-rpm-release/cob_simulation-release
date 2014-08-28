@@ -2,8 +2,20 @@
 Changelog for package cob_gazebo_worlds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.5.2 (2014-03-31)
+0.5.2 (2014-08-28)
 ------------------
+* change to latest transmission format
+* removed physics and added floor collisions
+* Set GAZEBO_MODEL_PATH
+* small changes to get simulation running
+* cleaning up
+* Merge pull request `#54 <https://github.com/ipa320/cob_simulation/issues/54>`_ from abubeck/hydro_dev
+  change physic setings to improve simulation performance
+* New maintainer
+* Merge branch 'hydro_dev' of github.com:abubeck/cob_simulation into hydro_dev
+* Moved floor pose
+* change physic setings to improve simulation performance
+* Contributors: Alexander Bubeck, Felix Messmer, Florian Weisshardt, abubeck, ipa-fxm, ipa-nhg
 
 0.5.1 (2014-03-21)
 ------------------
