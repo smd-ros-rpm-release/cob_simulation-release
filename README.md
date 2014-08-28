@@ -1,3 +1,29 @@
+## cob_simulation (indigo) - 0.5.3-0
+
+The packages in the `cob_simulation` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_simulation --edit` on `Thu, 28 Aug 2014 11:19:26 -0000`
+
+These packages were released:
+- `cob_bringup_sim`
+- `cob_gazebo`
+- `cob_gazebo_objects`
+- `cob_gazebo_worlds`
+- `cob_simulation`
+
+Version of package(s) in repository `cob_simulation`:
+- upstream repository: https://github.com/ipa320/cob_simulation.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## cob_simulation (hydro) - 0.5.2-0
 
 User `fmw@fmw-xps` released the packages in the `cob_simulation` repository into the `hydro` distro by running `/usr/bin/bloom-release --ros-distro hydro --track hydro cob_simulation` on `Mon, 31 Mar 2014 07:26:06 -0000`
