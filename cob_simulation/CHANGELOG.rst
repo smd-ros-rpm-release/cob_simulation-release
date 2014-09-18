@@ -2,6 +2,14 @@
 Changelog for package cob_simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.0 (2014-09-18)
+------------------
+* Merge pull request `#64 <https://github.com/ipa320/cob_simulation/issues/64>`_ from ipa320/hydro_release_candidate
+  Hydro release candidate
+* 0.5.2
+* update changelog
+* Contributors: Florian Weisshardt
+
 0.5.2 (2014-08-28)
 ------------------
 * New maintainer
