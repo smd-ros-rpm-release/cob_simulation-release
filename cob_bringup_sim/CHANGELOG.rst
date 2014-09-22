@@ -2,6 +2,9 @@
 Changelog for package cob_bringup_sim
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2014-09-22)
+------------------
+
 0.6.0 (2014-09-18)
 ------------------
 * remove object script working
